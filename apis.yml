@@ -2,6 +2,9 @@ aid: office-of-community-oriented-policing-services
 url: >2-
 
   https://raw.githubusercontent.com/api-evangelist/office-of-community-oriented-policing-services/refs/heads/main/apis.yml
+common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/community-oriented-policing-services
 apis:
   - aid: >2-
 
