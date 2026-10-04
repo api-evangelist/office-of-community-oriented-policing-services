@@ -25,9 +25,10 @@ apis:
       Signup for Email Updates ...
 name: Office of Community Oriented Policing Services
 tags:
-  - Federal-Government
+  - Federal Government
 tags_raw:
   - Federal Government
+  - Federal-Government
 kind: contract
 deliveryModel:
   model: unknown
