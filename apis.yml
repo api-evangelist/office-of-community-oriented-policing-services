@@ -3,6 +3,8 @@ url: >2-
 
   https://raw.githubusercontent.com/api-evangelist/office-of-community-oriented-policing-services/refs/heads/main/apis.yml
 common:
+  - url: https://cops.usdoj.gov/news
+    type: Blog
   - type: DomainSecurity
     url: security/office-of-community-oriented-policing-services-domain-security.yml
   - type: LinkedIn
@@ -56,7 +58,7 @@ accessModel:
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/office-of-community-oriented-policing-services.png
 access: 3rd-Party
 created: '2024-12-03'
-modified: '2026-04-28'
+modified: '2026-10-06'
 position: Consuming
 description: >-
   The Office of Community Oriented Policing Services (COPS Office) is a component
