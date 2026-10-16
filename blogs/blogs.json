@@ -1,0 +1,14 @@
+{
+  "repo": "office-of-community-oriented-policing-services",
+  "feeds": [
+    {
+      "source": "https://cops.usdoj.gov/news",
+      "feed_url": "https://cops.usdoj.gov/news",
+      "title": "",
+      "saved": 0,
+      "method": "none"
+    }
+  ],
+  "post_count": 0,
+  "fetched": "2026-10-10T13:15:00Z"
+}
