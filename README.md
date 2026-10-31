@@ -1,4 +1,4 @@
-# Office of Community Oriented Policing Services (office-of-community-oriented-policing-services)
+# Office of Community Oriented Policing Services
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,50 +64,66 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-The Office of Community Oriented Policing Services (COPS Office) is a component of the U.S. Department of Justice that works to advance the practice of community policing in law enforcement agencies across the country. The COPS Office provides grants, resources, and technical assistance to help law enforcement agencies develop and implement community policing strategies that build trust and collaboration with the communities they serve. By emphasizing problem-solving, partnerships, and community engagement, the COPS Office helps law enforcement agencies better address the root causes of crime and improve overall public safety. Additionally, the COPS Office conducts research and analysis to identify best practices in community policing and share this information with law enforcement agencies nationwide. Through their efforts, the COPS Office aims to promote transparency, accountability, and positive relationships between law enforcement and the communities they serve.
+The Office of Community Oriented Policing Services (COPS Office) is a component of the U.S. Department of Justice that works to advance the practice of community policing in law enforcement agencies across the country. The COPS Office provides grants, resources, and technical assistance to help law enforcement agencies develop and implement community policing strategies that build trust and collaboration with the communities they serve.
 
-**URL:** [Visit APIs.json URL](
-https://raw.githubusercontent.com/api-evangelist/office-of-community-oriented-policing-services/refs/heads/main/apis.yml)
+**Areas:** Federal Government
 
-## Scope
+## Office of Community Oriented Policing Services on APIs.io
 
-- **Type:** Contract 
-- **Position:** Consuming 
-- **Access:** 3rd-Party 
+Everything profiled for Office of Community Oriented Policing Services is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/office-of-community-oriented-policing-services/](https://apis.io/providers/office-of-community-oriented-policing-services/)** — or go straight to one of the APIs or properties below.
 
-## Tags:
+### APIs (1)
 
- - Federal Government
+- [Office of Community Oriented Policing Services](https://apis.io/apis/office-of-community-oriented-policing-services/office-of-community-oriented-policing-services/) — The COPS Office publishes materials for law enforcement and community stakeholders to use in collaboratively addressing crime and disorder. LEARN MORE.…
 
-## Timestamps
+### Published properties
 
-- **Created:** 2024-12-03 
-- **Modified:** 2026-04-28 
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## APIs
+#### Security (1)
 
-### Office of Community Oriented Policing Services
+Authentication, trust centre, and vulnerability disclosure.
 
-The COPS Office publishes materials for law enforcement and community
-stakeholders to use in collaboratively addressing crime and disorder.
-LEARN MORE. SPOTLIGHT . U.S. Department of Justice Office of Community
-Oriented Policing Services 145 N Street NE Washington, DC 20530. Contact
-the Department 800-421-6770 . Signup for Email Updates ...
+- [Office Of Community Oriented Policing Services Domain Security](https://apis.io/security/office-of-community-oriented-policing-services/office-of-community-oriented-policing-services-domain-security/)
 
-**Human URL:** [https://cops.usdoj.gov](https://cops.usdoj.gov)
+#### Plans and pricing (1)
 
+Published plans, tiers and prices.
 
-#### Tags:
+- [Office Of Community Oriented Policing Services Plans Pricing](https://apis.io/plans/office-of-community-oriented-policing-services/office-of-community-oriented-policing-services-plans-pricing/)
 
- - API
+#### Rate limits (1)
 
-#### Properties
+Published request limits.
 
-- [Documentation](https://cops.usdoj.gov)
+- [Office Of Community Oriented Policing Services Rate Limits](https://apis.io/rate-limits/office-of-community-oriented-policing-services/office-of-community-oriented-policing-services-rate-limits/)
 
-## Maintainers
+#### FinOps (1)
 
-**FN:** Kin Lane
+What the API costs to run, by operation.
 
-**Email:** kin@apievangelist.com
+- [Office Of Community Oriented Policing Services Finops](https://apis.io/finops/office-of-community-oriented-policing-services/office-of-community-oriented-policing-services-finops/)
 
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Blog](https://cops.usdoj.gov/news)
+
+## API Evangelist rating
+
+**Unrated** — no public website could be reached for this company, so there was almost nothing to measure and nothing a reader could check.
+
+This is not a score of zero. No rating is published for this company. If that is wrong because something public exists that we missed, say so on this repository or email [info@apievangelist.com](mailto:info@apievangelist.com) and it will be re-run — free, and no justification needed.
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Office of Community Oriented Policing Services: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/office-of-community-oriented-policing-services/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
